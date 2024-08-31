@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
