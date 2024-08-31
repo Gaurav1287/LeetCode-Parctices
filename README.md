@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
