@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
