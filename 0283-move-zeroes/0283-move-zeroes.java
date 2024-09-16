@@ -12,6 +12,6 @@ class Solution {
           {
             nums[i]=0;
           }
-        System.out.print(Arrays.toString(nums));
+        
     }
 }
