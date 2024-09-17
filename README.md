@@ -16,6 +16,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0238-product-of-array-except-self) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 ## Sliding Window
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
@@ -112,4 +116,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
