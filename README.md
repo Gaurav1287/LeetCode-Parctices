@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
 ## Recursion
