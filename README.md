@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
