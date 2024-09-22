@@ -110,6 +110,7 @@
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 ## Binary Indexed Tree
 |  |
 | ------- |
