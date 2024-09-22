@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
+| [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
