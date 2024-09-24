@@ -29,6 +29,7 @@
 | [0493-reverse-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
