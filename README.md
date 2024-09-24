@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
@@ -71,6 +72,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0191-number-of-1-bits) |
@@ -124,6 +126,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
