@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
@@ -92,6 +95,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -113,6 +117,7 @@
 | [0009-palindrome-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
@@ -130,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0493-reverse-pairs) |
 ## Greedy
