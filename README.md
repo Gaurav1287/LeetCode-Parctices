@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
 | ------- |
