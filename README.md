@@ -44,6 +44,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0493-reverse-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
