@@ -197,6 +197,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
