@@ -45,6 +45,7 @@
 | [0792-binary-search](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
+| [1127-last-stone-weight](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
