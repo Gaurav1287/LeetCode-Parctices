@@ -201,6 +201,7 @@
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -248,10 +249,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
 ## Union Find
 |  |
 | ------- |
