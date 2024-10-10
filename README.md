@@ -125,6 +125,7 @@
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
