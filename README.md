@@ -68,6 +68,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
