@@ -63,6 +63,7 @@
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -78,6 +79,7 @@
 | [0179-largest-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -124,6 +126,7 @@
 | [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
