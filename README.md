@@ -133,6 +133,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
+| [1542-consecutive-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1542-consecutive-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bit Manipulation
