@@ -7,7 +7,7 @@ class Solution {
     //      {
     //          if(nums[i]==nums[j])
     //          {
-    //             int a=i-j;
+    //             int a=Math.abs(i-j);
             
     //             if(a<=k)
     //             {
@@ -17,7 +17,7 @@ class Solution {
     //      }
     //   }
     //   return false;
-    Set<Integer>set=new HashSet<>();
+   Set <Integer>set=new HashSet<>();
     for(int i=0;i<nums.length;i++)
     {
         if(set.contains(nums[i]))
