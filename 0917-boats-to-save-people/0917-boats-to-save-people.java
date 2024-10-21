@@ -14,9 +14,11 @@ class Solution {
         else
         {
           end--;
+       
         }
-      count++;
+         count++;
      }
      return count;
-    }
+      
+}
 }
