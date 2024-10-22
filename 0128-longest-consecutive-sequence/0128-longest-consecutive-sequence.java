@@ -27,13 +27,14 @@ class Solution {
         //     max=Math.max(max,k);
         // }
         // return max;
-     Arrays.sort(nums);
+     
      int count=1;
      int max=1;
      if(nums.length==0)
      {
         return 0;
      }
+     Arrays.sort(nums);
      for(int i=1;i<nums.length;i++)
      {
         
