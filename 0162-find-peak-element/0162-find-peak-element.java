@@ -11,8 +11,8 @@ class Solution {
        else if(nums[nums.length-1]>nums[nums.length-2])
        {
         return nums.length-1;
-       }else
-       {
+       }
+       
         int s=1;
         int end=nums.length-2;
         while(s<=end)
@@ -32,7 +32,7 @@ class Solution {
             }
         }
          return -1;
-       }
+       
       
     }
 }
