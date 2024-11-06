@@ -13,17 +13,18 @@ class Solution {
         // }
         
         // return result;
-        int result[]=new int[nums.length];
+        int n=nums.length;
         int pre=1,post=1;
-        for(int i=0;i<nums.length;i++)
+        int result[]=new int[n];
+        for(int i=0;i<n;i++)
         {
             result[i]=pre;
             pre=nums[i]*pre;
         }
-        for(int i=nums.length-1;i>=0;i--)
+        for(int i=n-1;i>=0;i--)
         {
             result[i]=result[i]*post;
-            post=post*nums[i];
+            post=nums[i]*post;
         }
         return result;
     }
