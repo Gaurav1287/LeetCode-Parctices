@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
