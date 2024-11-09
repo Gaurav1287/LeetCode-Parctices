@@ -1,11 +1,11 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-    // HashSet<Integer>hash=new HashSet<>();
+    //  HashSet<Integer>hash=new HashSet<>();
     // for(int num:nums)
     //  {
     //     hash.add(num);
     //   }
-    //     return;
+    //     return hash.size();
     // int unique = 0;
         
     //     for (int num : nums) {
