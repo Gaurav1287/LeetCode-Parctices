@@ -1,6 +1,5 @@
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
-        // If concatenating str1 + str2 is not equal to str2 + str1, no GCD exists
         if (!(str1 + str2).equals(str2 + str1)) {
             return "";
         }
