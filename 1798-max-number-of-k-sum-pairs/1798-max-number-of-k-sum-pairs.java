@@ -18,7 +18,7 @@ class Solution {
             }
             else
             {
-                count++
+                count++;
                 l++;
                 r--;
             }
