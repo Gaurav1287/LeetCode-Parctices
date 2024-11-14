@@ -7,10 +7,9 @@ class Solution {
         while(l<r)
         {
             int sum=nums[l]+nums[r];
-            if(sum==k)
+            if(sum>k)
             {
-                count++;
-                l++;
+                
                 r--;
             }
             else if(sum<k)
@@ -19,6 +18,8 @@ class Solution {
             }
             else
             {
+                count++
+                l++;
                 r--;
             }
         }
