@@ -42,6 +42,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
