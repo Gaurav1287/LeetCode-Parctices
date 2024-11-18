@@ -119,6 +119,7 @@
 | [0152-maximum-product-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
