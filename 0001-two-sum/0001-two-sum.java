@@ -23,5 +23,25 @@ class Solution {
             map.put(nums[i],i);
         }
         return null;
+        // int l=0;
+        // int r=nums.length-1;
+        // // Arrays.sort(nums);
+        // while(l<r)
+        // {
+        //     int sum=nums[l]+nums[r];
+        //     if(sum==target)
+        //     {
+        //         return new int[]{l,r};
+        //     }
+        //     else if(sum<target )
+        //     {
+        //         l++;
+        //     }
+        //     else
+        //     {
+        //         r--;
+        //     }
+        // }
+        // return new int[0];
     }
 }
