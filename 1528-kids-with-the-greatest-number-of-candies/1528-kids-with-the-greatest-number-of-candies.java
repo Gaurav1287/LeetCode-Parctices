@@ -1,23 +1,22 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-     
-         List<Boolean> ch=new ArrayList<>();
+        List<Boolean> sh=new ArrayList<>();
         int max=0;
-        for(int num:candies)
-        {
-            max=Math.max(max,num);
-        }
         for(int candy:candies)
         {
-            if(candy+extraCandies>=max)
+            max=Math.max(max,candy);
+        }
+        for(int num:candies)
+        {
+            if(num+extraCandies >=max)
             {
-                ch.add(true);
+                sh.add(true);
             }
             else
             {
-                ch.add(false);
+                sh.add(false);
             }
         }
-        return ch;
+        return sh;
     }
 }
