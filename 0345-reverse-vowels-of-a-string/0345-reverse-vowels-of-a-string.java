@@ -1,45 +1,28 @@
 class Solution {
     public String reverseVowels(String s) {
-        // String vowels="aeiou";
-        // // StringBuilder res=new StringBuilder();
-        //  char[] chars = s.toCharArray();
-        // int left=0;
-        // int right=chars.length-1;
-        // while(left<right)
-        // {
-        //     if(vowels.indexOf(chars[left])==1 && vowels.indexOf(chars[rigth])==1)
-        //     {
-        //         char temp = chars[left];
-        //          chars[left] = chars[right];
-        //          chars[right] = temp;
-        //     }
-        //     left++;
-        //     right--;
-            
-        //   }
-    String vowels = "aeiouAEIOU"; 
-    char[] chars = s.toCharArray();
-    int left = 0;
-    int right = chars.length - 1;
-
-    while (left < right) {
-        while (left < right && vowels.indexOf(chars[left]) == -1) {
-            left++;
+        String vowles="aieouAEIOU";
+        char ch[]=s.toCharArray();
+        int l=0;
+        int r=ch.length-1;
+        while(l<r)
+        {
+          while(l<r && vowles.indexOf(ch[l])==-1)
+          {
+            l++;
+          }
+          while(l<r && vowles.indexOf(ch[r])==-1)
+          {
+            r--;
+          }
+          if(l<r)
+          {
+            char temp=ch[l];
+            ch[l]=ch[r];
+            ch[r]=temp;
+            l++;
+            r--;
+          }
         }
-
-        while (left < right && vowels.indexOf(chars[right]) == -1) {
-            right--;
-        }
-
-        if (left < right) {
-            char temp = chars[left];
-            chars[left] = chars[right];
-            chars[right] = temp;
-            left++;
-            right--;
-        }
-    }
-
-    return new String(chars);
+        return new String(ch);
     }
 }
