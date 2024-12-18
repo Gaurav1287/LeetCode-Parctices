@@ -4,8 +4,6 @@ class Solution {
         int l=0;
         char ch[]=s.toCharArray();
         int r=ch.length -1;
-
-        String ans="";
         while(l<r)
         {
             while(l<r && vowels.indexOf(ch[l])==-1 )
