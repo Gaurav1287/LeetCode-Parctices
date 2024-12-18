@@ -6,15 +6,16 @@ class Solution {
         }
         int min=nums[0];
         int max=nums[0];
-        int result=max;
+        int res=max;
         for(int i=1;i<nums.length;i++)
         {
             int curr=nums[i];
             int temp=Math.max(curr,Math.max(max*curr,min*curr));
-             min=Math.min(curr,Math.min(max*curr,min*curr));
+            min=Math.min(curr,Math.min(max*curr,min*curr));
             max=temp;
-            result=Math.max(result,max);
+            res=Math.max(res,max);
         }
-        return result;
+        return res;
+        
     }
 }
