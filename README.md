@@ -46,6 +46,7 @@
 | [0724-find-pivot-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
+| [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1542-consecutive-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -191,6 +193,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
+| [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
