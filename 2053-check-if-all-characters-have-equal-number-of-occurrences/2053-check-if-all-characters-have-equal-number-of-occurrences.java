@@ -1,18 +1,18 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-       Map<Character,Integer> goodString=new HashMap<>();
-       for(char ch:s.toCharArray())
-       {
-        goodString.put(ch,goodString.getOrDefault(ch,0)+1);
-       }
-       int ferq=goodString.get(s.charAt(0));
-       for(int key:goodString.values())
-       {
-        if(key!=ferq)
+        Map<Character,Integer> ma=new HashMap<>();
+        for(char ch:s.toCharArray())
         {
-            return false;
+            ma.put(ch,ma.getOrDefault(ch,0)+1);
         }
-       }
-       return true;
+        int freq=ma.get(s.charAt(0));
+        for(int key:ma.values())
+        {
+            if(key!=freq)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }
