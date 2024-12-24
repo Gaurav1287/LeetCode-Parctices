@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
