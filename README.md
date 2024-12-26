@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0055-jump-game) |
@@ -212,6 +213,7 @@
 | [0009-palindrome-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
@@ -276,6 +278,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 ## Simulation
