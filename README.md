@@ -157,6 +157,7 @@
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0065-valid-number) |
@@ -192,6 +193,7 @@
 | [0016-3sum-closest](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0088-merge-sorted-array) |
@@ -348,4 +350,8 @@
 | [1258-article-views-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
