@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0053-maximum-subarray) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
