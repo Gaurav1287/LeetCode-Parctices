@@ -22,6 +22,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
@@ -354,4 +356,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
