@@ -163,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0151-reverse-words-in-a-string) |
@@ -222,6 +223,7 @@
 | [0009-palindrome-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
@@ -294,6 +296,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
