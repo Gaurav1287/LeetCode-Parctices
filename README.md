@@ -145,6 +145,7 @@
 | [0238-product-of-array-except-self](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1833-find-the-highest-altitude) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 ## Divide and Conquer
@@ -178,6 +179,7 @@
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
 | [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1894-merge-strings-alternately) |
