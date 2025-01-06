@@ -68,6 +68,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@
 | [0724-find-pivot-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 ## Divide and Conquer
 |  |
@@ -183,6 +185,7 @@
 | [1542-consecutive-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
