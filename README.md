@@ -77,6 +77,7 @@
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -378,8 +380,21 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
