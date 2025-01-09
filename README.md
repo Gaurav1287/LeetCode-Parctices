@@ -73,6 +73,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -194,6 +195,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
@@ -380,6 +382,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
