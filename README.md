@@ -56,6 +56,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
+| [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1127-last-stone-weight) |
@@ -96,6 +97,7 @@
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -185,6 +187,7 @@
 | [0392-is-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
 | [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
+| [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1537-maximum-score-after-splitting-a-string) |
