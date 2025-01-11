@@ -100,6 +100,7 @@
 | [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
@@ -189,6 +190,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1542-consecutive-characters) |
@@ -288,10 +290,12 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
+| [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
+| [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
