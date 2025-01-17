@@ -79,6 +79,7 @@
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2792-neighboring-bitwise-xor](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
+| [2792-neighboring-bitwise-xor](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
