@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0334-increasing-triplet-subsequence) |
@@ -122,6 +123,7 @@
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0917-boats-to-save-people) |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
