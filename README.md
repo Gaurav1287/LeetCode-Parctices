@@ -65,6 +65,7 @@
 | [1127-last-stone-weight](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
@@ -328,6 +330,7 @@
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2145-grid-game) |
 ## Simulation
 |  |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 ## Database
 |  |
 | ------- |
@@ -424,4 +428,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0274-h-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
