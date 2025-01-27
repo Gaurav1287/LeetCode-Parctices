@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0560-subarray-sum-equals-k) |
@@ -262,6 +264,7 @@
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -381,6 +384,7 @@
 | [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
@@ -436,4 +440,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
