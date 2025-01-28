@@ -85,6 +85,7 @@
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -335,6 +336,7 @@
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2145-grid-game) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -436,10 +439,12 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Randomized
 |  |
 | ------- |
