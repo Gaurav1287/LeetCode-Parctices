@@ -23,6 +23,7 @@
 | [0055-jump-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +97,7 @@
 | [0012-integer-to-roman](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0217-contains-duplicate) |
@@ -333,6 +335,7 @@
 | [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2145-grid-game) |
