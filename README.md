@@ -89,6 +89,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
