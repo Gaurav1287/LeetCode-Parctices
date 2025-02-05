@@ -120,6 +120,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -218,6 +219,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -327,6 +329,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
