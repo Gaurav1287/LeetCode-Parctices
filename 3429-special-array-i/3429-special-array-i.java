@@ -1,7 +1,6 @@
 class Solution {
     public boolean isArraySpecial(int[] nums) {
         int n=nums.length;
-        int j=0;
         if (n == 1) {
             return true;
         }
