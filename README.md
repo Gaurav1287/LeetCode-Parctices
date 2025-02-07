@@ -95,6 +95,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Indexed Tree
 |  |
 | ------- |
