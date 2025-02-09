@@ -87,6 +87,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -128,6 +129,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2434-design-a-number-container-system](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -287,6 +289,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
+| [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Recursion
 |  |
@@ -338,6 +341,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
