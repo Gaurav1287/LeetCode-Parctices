@@ -233,6 +233,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
+| [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
