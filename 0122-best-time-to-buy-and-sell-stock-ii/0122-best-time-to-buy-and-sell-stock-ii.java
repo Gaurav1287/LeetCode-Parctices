@@ -1,15 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int total=0;
-        // int max=[0];
-        for(int i=1;i<prices.length;i++)
+        int n=prices.length;
+        int profit=0;
+        for(int i=1;i<n;i++)
         {
-            if(prices[i]>prices[i-1])
-            {
-                total+=prices[i]-prices[i-1];
-            }
+             if(prices[i]>prices[i-1])
+             {
+                profit +=prices[i] - prices[i-1];
+             }
         }
-        return total;
-        
+        return profit;
     }
 }
