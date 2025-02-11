@@ -228,6 +228,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -352,6 +353,7 @@
 | [0155-min-stack](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0232-implement-queue-using-stacks) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -372,6 +374,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
 ## Binary Indexed Tree
