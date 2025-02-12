@@ -89,6 +89,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -130,6 +131,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2434-design-a-number-container-system](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 | [1127-last-stone-weight](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
