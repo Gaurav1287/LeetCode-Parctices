@@ -300,6 +300,7 @@
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -465,6 +466,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0078-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Trie
 |  |
 | ------- |
