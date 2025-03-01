@@ -15,12 +15,12 @@ class Solution {
         Arrays.sort(arr);
         if(len%2==0)
         {
-            int x = len/2;
+            int x=len/2;
             return (float) (arr[x-1]+arr[x])/2;
         }
         else
         {
-            int y = len/2;
+            int y=len/2;
             return arr[y];
         }
     }
