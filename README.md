@@ -86,6 +86,7 @@
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2145-grid-game](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2145-grid-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
@@ -281,6 +282,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | [0898-transpose-matrix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3447-clear-digits) |
