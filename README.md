@@ -304,6 +304,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2802-find-the-punishment-number-of-an-integer) |
