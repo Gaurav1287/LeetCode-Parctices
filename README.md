@@ -226,6 +226,7 @@
 | [0389-find-the-difference](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0459-repeated-substring-pattern) |
 | [0841-shortest-distance-to-a-character](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -470,6 +471,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3309-count-prefix-and-suffix-pairs-i) |
