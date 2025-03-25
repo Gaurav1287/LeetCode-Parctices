@@ -101,6 +101,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
