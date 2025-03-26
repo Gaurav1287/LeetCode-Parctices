@@ -295,6 +295,7 @@
 | [0013-roman-to-integer](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
@@ -314,6 +315,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1013-fibonacci-number) |
