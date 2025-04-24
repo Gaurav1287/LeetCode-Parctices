@@ -131,6 +131,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1500-count-largest-group](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -314,6 +315,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gaurav1287/LeetCode-Parctices/tree/master/2448-count-number-of-bad-pairs) |
