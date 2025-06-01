@@ -1,7 +1,7 @@
 class Solution {
-    public boolean isValid(String s) {  
+    public boolean isValid(String s) {
+        Stack<Character> sh=new Stack<>();
         int n=s.length();
-        Stack<Character> stack=new Stack<>();
         if(n%2!=0)
         {
             return false;
@@ -9,41 +9,35 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             char ch=s.charAt(i);
-            if(ch=='('||ch=='{'||ch=='[')
+            if(ch == '(' || ch =='{' || ch =='[')
             {
-                stack.push(ch);
+                sh.push(ch);
             }
             else
             {
-                if(stack.isEmpty())
+                if(sh.isEmpty())
                 {
                     return false;
                 }
-                char top=stack.peek();
-                if(ch==')' && top!='(')
+                char top=sh.peek();
+                if(ch == ')' && top!='(' )
                 {
                     return false;
                 }
-                else if(ch=='}' && top!='{')
+                if(ch == '}' && top!='{' )
                 {
                     return false;
                 }
-                else if(ch==']' && top!='[')
+                if(ch == ']' && top!='[' )
                 {
                     return false;
                 }
                 else
                 {
-                    stack.pop();
+                    sh.pop();
                 }
             }
-
         }
-        if(stack.isEmpty())
-        {
-            return true;
-        }
-        return false;
+        return sh.isEmpty();
     }
-
 }
